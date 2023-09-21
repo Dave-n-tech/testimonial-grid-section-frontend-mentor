@@ -33,7 +33,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://dave-n-tech.github.io/testimonial-grid-section-frontend-mentor/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
